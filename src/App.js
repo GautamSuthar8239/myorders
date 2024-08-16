@@ -8,6 +8,7 @@ function App() {
   return (
     <>
       <div>
+        <h1>Akatsuki</h1>
         <h1>Counter App</h1>
         <p>Current count: {count}</p>
         <div style={{ display: "flex", gap: "10px", margin: "10px" }}>
